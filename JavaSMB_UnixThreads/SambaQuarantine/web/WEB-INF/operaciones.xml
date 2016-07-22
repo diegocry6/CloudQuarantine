@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<operaciones>
+    <operacion>
+        <key>login</key>
+        <value>WebLogin</value>
+    </operacion>
+    <operacion>
+        <key>cuarentena</key>
+        <value>CuarentenaView</value>
+    </operacion>
+    <operacion>
+        <key>disponibles</key>
+        <value>DisponiblesView</value>
+    </operacion>
+    <operacion>
+        <key>logout</key>
+        <value>WebLogout</value>
+    </operacion>
+    <operacion>
+        <key>download</key>
+        <value>DownloadFile</value>
+    </operacion>
+    <operacion>
+        <key>eventLog</key>
+        <value>ViewEventLog</value>
+    </operacion>
+    <operacion>
+        <key>ownerLog</key>
+        <value>ViewOwnerLog</value>
+    </operacion>
+    <operacion>
+        <key>viewAntivirusLog</key>
+        <value>ViewAntivirusLog</value>
+    </operacion>
+    <operacion>
+        <key>logRead</key>
+        <value>LogRead</value>
+    </operacion>
+    <operacion>
+        <key>cleanQuarantine</key>
+        <value>CleanQuarantine</value>
+    </operacion>
+</operaciones> 
